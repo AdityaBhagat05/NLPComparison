@@ -1,0 +1,7 @@
+venv
+.vscode
+Cities
+Names
+Orgs
+test_pos_data.pkl
+train_pos_data.pkl
