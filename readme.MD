@@ -29,7 +29,7 @@ NLPComparison/
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 Install  Python packages:
 
@@ -56,13 +56,13 @@ A GPU greatly speeds up BERT training and GPT prompting.
 
 ---
 
-## ▶️ How to Reproduce the Results
+##  How to Reproduce the Results
 
 Follow these steps **in order** to regenerate all results and plots used in the report.
 
 ---
 
-## 1️⃣ Create the Augmented Dataset
+## 1. Create the Augmented Dataset
 
 Open **`dataset.ipynb`** and run all cells.
 
@@ -76,7 +76,7 @@ This notebook:
 
 ---
 
-## 2️⃣ Run Each Model Notebook
+## 2. Run Each Model Notebook
 
 ### **A. Rule-Based Model**
 Open **`Rule_based (2).ipynb`**  
@@ -120,7 +120,7 @@ This tests:
 
 ---
 
-## 3️⃣ Generate Figures Used in the Report
+## 3. Generate Figures Used in the Report
 
 Each notebook exports numerical results.  
 From these, generate two main plots:
@@ -145,7 +145,7 @@ Values used:
 
 
 
-## 📌 Summary of Findings
+##  Summary of Findings
 
 - **BERT achieves highest F1 score**, especially on culturally-specific tokens.  
 - **spaCy** provides the best **accuracy vs speed trade-off**.  
@@ -154,7 +154,7 @@ Values used:
 
 ---
 
-## 📬 Contact
+## Contact
 
 For help running any notebook, open an issue or message the repository owner.
 
